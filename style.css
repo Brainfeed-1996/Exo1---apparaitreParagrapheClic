@@ -1,0 +1,10 @@
+.lien {
+  margin-left: 30px;
+  text-decoration: none;
+  background-color: rgba(255, 0, 0, 0.342);
+  font-weight: 900;
+}
+
+.gras{
+    font-weight: 900;
+}
